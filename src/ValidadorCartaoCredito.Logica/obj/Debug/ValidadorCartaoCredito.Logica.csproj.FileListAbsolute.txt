@@ -1,0 +1,6 @@
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\bin\Debug\ValidadorCartaoCredito.Logica.dll
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\bin\Debug\ValidadorCartaoCredito.Logica.pdb
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\obj\Debug\ValidadorCartaoCredito.Logica.csproj.CoreCompileInputs.cache
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\obj\Debug\ValidadorCartaoCredito.Logica.dll
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\obj\Debug\ValidadorCartaoCredito.Logica.pdb
+D:\Leanwork\ValidadorCartaoCredito\src\ValidadorCartaoCredito.Logica\obj\Debug\ValidadorCartaoCredito.Logica.csprojAssemblyReference.cache
